@@ -1,3 +1,5 @@
-# learnGIt
+﻿# learnGIt
 
 这是git
+
+Creating a new branch is quick & simple.
